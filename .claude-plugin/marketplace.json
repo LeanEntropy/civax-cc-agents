@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "civax-cc-agents",
+  "version": "1.0.0",
+  "description": "Claude Code agents and plugins for DevOps, Railway deployment, and workflow automation",
+  "owner": {
+    "name": "Civax",
+    "email": "contact@civax.dev"
+  },
+  "plugins": [
+    {
+      "name": "railway-deployer",
+      "description": "Complete Railway DevOps toolkit for multi-environment deployments with agents for setup, operations, environment sync, and git workflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "Civax"
+      },
+      "source": "./plugins/railway-deployer",
+      "category": "devops"
+    }
+  ]
+}
