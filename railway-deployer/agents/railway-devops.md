@@ -2,7 +2,7 @@
 name: railway-devops
 description: Complete Railway DevOps specialist for setting up and maintaining multi-environment deployments. Use for initial Railway setup, configuring staging/production environments, managing services (frontend+backend or monolith), environment variables, and deployment workflows.
 tools: Read, Bash, Grep, Glob, Edit, Write, WebFetch
-model: sonnet
+model: opus
 ---
 
 # Railway DevOps Specialist
