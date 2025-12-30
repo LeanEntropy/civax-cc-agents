@@ -1,0 +1,18 @@
+{
+  "name": "railway-deployer",
+  "description": "Railway deployment & Git workflow automation for multi-environment projects (staging/production)",
+  "version": "1.0.0",
+  "author": {
+    "name": "DevOps Automation"
+  },
+  "keywords": [
+    "railway",
+    "deployment",
+    "devops",
+    "git",
+    "ci-cd",
+    "staging",
+    "production",
+    "environment-management"
+  ]
+}
